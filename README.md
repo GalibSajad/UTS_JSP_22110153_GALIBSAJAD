@@ -19,16 +19,14 @@ Aplikasi ini mensimulasikan proses pemesanan tiket bioskop secara online, di man
 ## 📸 Screenshot Hasil Output
 
 **Halaman Daftar Film:**  
-![Halaman Daftar Film](images/index.png)
+![Halaman Daftar Film](Web Pages/images/index.png)
 
 **Form Pemesanan:**  
-![Form Pemesanan](images/formPesan.png)
+![Form Pemesanan](Web Pages/images/formPesan.png)
 
 **Struk Pemesanan:**  
-![Struk Pemesanan](images/struk.png)
-
-> Pastikan file gambar diletakkan di folder: `Web Pages/images/`
-
+![Struk Pemesanan](Web Pages/images/struk.png)
+`
 ---
 
 ## 🛠 Instruksi Menjalankan Aplikasi
